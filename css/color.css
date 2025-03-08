@@ -1,23 +1,27 @@
 /* background */
-.bg-dark-blue {
-  background-color: #1e3a8a;
-  color: #ffffff;
-}
-.bg-light-blue {
-  background-color: #3b82f6;
-  color: #ffffff;
-}
 .bg-light-gray {
-  background-color: #f3f4f6;
+  background-color: #e0e0e0;
   color: #374151;
 }
 .bg-dark-gray {
-  background-color: #374151;
+  background-color: #4a4a4a;
+}
+
+.bg-soft-black {
+  background-color: #303030;
 }
 
 /* text */
 .text-dark-gray {
-  color: #374151;
+  color: #4a4a4a;
+}
+
+.text-light-gray {
+  color: #b0b0b0;
+}
+
+.text-soft-black {
+  color: #303030;
 }
 
 /* nav */
