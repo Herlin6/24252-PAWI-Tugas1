@@ -1,0 +1,18 @@
+/* background */
+.bg-dark-blue {
+  background-color: #1e3a8a;
+  color: #ffffff;
+}
+.bg-light-blue {
+  background-color: #3b82f6;
+  color: #ffffff;
+}
+.bg-light-gray {
+  background-color: #f3f4f6;
+  color: #374151;
+}
+
+/* text */
+.text-dark-gray {
+  color: #374151;
+}
