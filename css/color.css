@@ -16,3 +16,21 @@
 .text-dark-gray {
   color: #374151;
 }
+
+/* nav */
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: #ffffff !important;
+}
+
+.navbar .nav-link:hover {
+  color: #f3f4f6 !important;
+}
+
+.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.navbar-toggler-icon {
+  filter: invert(1);
+}
