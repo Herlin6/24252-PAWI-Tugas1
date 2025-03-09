@@ -56,3 +56,14 @@ img.recommended-item:hover {
   background-color: #414141;
   border-radius: 10px;
 }
+
+.product-img {
+  height: 200px;
+  width: auto;
+  object-fit: contain;
+}
+
+.card {
+  height: 400px;
+  overflow: hidden;
+}
