@@ -7,7 +7,7 @@
 }
 body {
   font-family: "Roboto", sans-serif;
-  color: #374151;
+  color: #4a4a4a;
   background-color: #e0e0e0;
   margin-top: 56px;
   min-height: 100vh;
@@ -19,4 +19,12 @@ h3 {
 }
 main {
   min-height: 100vh;
+}
+.home-icon {
+  width: 40%;
+  transition: 0.2s;
+}
+.home-icon:hover {
+  transform: scale(1.15);
+  transition: 0.2s;
 }
