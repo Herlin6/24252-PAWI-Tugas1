@@ -67,3 +67,9 @@ img.recommended-item:hover {
   height: 400px;
   overflow: hidden;
 }
+.product-category-text {
+  background-color: #909090;
+}
+.product-category-text:hover {
+  background-color: #666666;
+}
