@@ -28,11 +28,6 @@ main {
   transform: scale(1.15);
   transition: 0.2s;
 }
-th,
-td {
-  border: 1px solid black;
-  padding: 5px;
-}
 img.recommended-item:hover {
   transform: scale(1.05);
   transition: 0.2s;
@@ -44,7 +39,6 @@ img.recommended-item:hover {
   }
 }
 @media (max-width: 992px) {
-  table.recommended-item,
   div.recommended-item {
     margin-left: auto;
     margin-right: auto;
